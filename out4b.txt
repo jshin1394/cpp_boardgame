@@ -1,0 +1,3 @@
+Select game: (b)attleship or (c)heckers?
+Battleship
+Player 1 place aircraft carrier (5):

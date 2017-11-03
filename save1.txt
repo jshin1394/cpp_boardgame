@@ -1,0 +1,6 @@
+checkers
+player 1 turn 5 player 2 turn 5
+1 3 3 k
+2 6 6 p
+
+

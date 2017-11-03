@@ -1,0 +1,658 @@
+commit 998a52dca4e8c3cf774dadbc2029e6a48a701d52
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 21:53:17 2016 -0400
+
+    deleted leftover
+
+commit 1ca80116c6bbe81c094568e457a529a5ea75dcc4
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Fri Jun 24 21:46:32 2016 -0400
+
+    test
+
+commit 4ed3e2294c13734e61f3f2d81aa61a986a2cb631
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Fri Jun 24 21:39:13 2016 -0400
+
+    test_checker
+
+commit ae56e778ddb3c83e19f64a2534d72789f1bb73a6
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 21:38:31 2016 -0400
+
+    updated
+
+commit dcb9bb30b441b7e6b5f030c18100f4b47e092362
+Merge: cb22ee1 335d7a3
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 21:35:35 2016 -0400
+
+    updates
+
+commit cb22ee1a54b2efda45c2d6d85c62575b6ffc4418
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 21:29:07 2016 -0400
+
+    checker bug fixed
+
+commit 32758e3b650aab6b7c658ba4d23d8ae6712e094c
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 21:28:31 2016 -0400
+
+    checker bug fix
+
+commit 335d7a393a92f74c4fa087fecdde69bdbe76ebd7
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Fri Jun 24 21:24:31 2016 -0400
+
+    function
+
+commit 69f5fdb05b9d2a00a2985d5c21f89b4daf656666
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 19:56:48 2016 -0400
+
+    unit tests kinda working
+
+commit 304a5e03929cc806ce593db9d1899bb27f48337a
+Merge: a276b82 1da81de
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 19:11:04 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit a276b8255b813cb25e2b723f0bcfb6d1131832f5
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 19:10:05 2016 -0400
+
+    checker bug fixed
+
+commit 1da81de2d41f08080f4aa1f60b214208e6cabd4b
+Merge: e71dcd6 352e516
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Fri Jun 24 18:44:12 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 352e5168072073696c0f4a7cf72efd8699758f41
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 18:38:23 2016 -0400
+
+    updates
+
+commit e71dcd6d53594cfded6513e8158638af2d38c4a6
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Fri Jun 24 18:38:16 2016 -0400
+
+    test_Checker.sh
+
+commit 7ee6f900fffbbe468c51d8d1f814ce703e695eb0
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 17:13:30 2016 -0400
+
+    unit test works
+
+commit d451f45b92ac43f994b041c5e6be7c55684ae87a
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 13:27:08 2016 -0400
+
+    private/public stuff and all
+
+commit 995dcc2a972884823275ceeccc8a092518a4d7f9
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 02:04:45 2016 -0400
+
+    latest
+
+commit 856a70fa767bcb18f3c318edc3e9d1bf571679ef
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 01:36:15 2016 -0400
+
+    changes
+
+commit 060645ffc8156b4263636173e43515250ad655e2
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Fri Jun 24 00:27:37 2016 -0400
+
+    uptodate
+
+commit 18d45d3f7b8ea8883c3002cdc0058dd03fdf19cb
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 23:04:41 2016 -0400
+
+    game works
+
+commit 56373dd512be8dee9a48133396b81286150be2cd
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 21:54:54 2016 -0400
+
+    updates addeed
+
+commit 39e036f5a85fb095f340c944b3f8423974a242bd
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 20:59:46 2016 -0400
+
+    battlefunction name change and stuff
+
+commit 648b52905e1f45864c158992990a2b7b601d946c
+Merge: 9dc3f77 5cd8b1a
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 20:47:37 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 9dc3f77ab3a04a074839c80d890c030c074a59b6
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 20:47:31 2016 -0400
+
+    delocaiton solved
+
+commit 5cd8b1a0047397fe4fb09ae5908f3ba516ca7cf5
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Thu Jun 23 20:17:43 2016 -0400
+
+    combined
+
+commit 2d495ff3e336ee46718c8218d8613b73f7eb1f80
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Thu Jun 23 18:05:17 2016 -0400
+
+    combining folder
+
+commit 6a1ea95520d1ab4160fd21428622aef14be84430
+Merge: 4137ac8 bddda96
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 18:00:34 2016 -0400
+
+    fixed
+
+commit 4137ac809c5067fb538a938415bfb39aa057655c
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 17:58:01 2016 -0400
+
+    onOff works
+
+commit bddda964c2b70ef5a328e2196c22135b99c9e2df
+Merge: d3363a3 c95af36
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Thu Jun 23 17:31:51 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit d3363a3cda617353e21439ee1d6efeca4acc9ed4
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Thu Jun 23 17:31:26 2016 -0400
+
+    header.h for battle
+
+commit c95af36bff5f35c46a16f157a9da7e7229a58b65
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Thu Jun 23 17:30:58 2016 -0400
+
+    containing both combined file and separated files for Checekr -- folder
+
+commit c31be07f06af7dede623632a0e8378c722629039
+Merge: 3a957a0 a46061b
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Thu Jun 23 17:10:59 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 3a957a0967403909bf2217c82414fd2e25bd70d6
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Thu Jun 23 17:10:31 2016 -0400
+
+    full
+
+commit a46061bc84629c85451dbe99bed1e03d6be81b0e
+Merge: b9196c3 a6877ce
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 16:38:53 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit b9196c3d888248fbea02bf84bcfcd6ffe804969e
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 16:36:05 2016 -0400
+
+    updated
+
+commit a6877ce8e77667206d10c9bd0425b72cac2a0776
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Thu Jun 23 15:44:18 2016 -0400
+
+    6/23 3:44 pm Checkers latest update
+
+commit 6fd9c73360a0add85f537e7e56b28697fd735c66
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 15:21:46 2016 -0400
+
+    changes
+
+commit 614b161158a4f98360a13078928a973dbc37c254
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Thu Jun 23 14:06:09 2016 -0400
+
+    duplication reduced
+
+commit ddfd81ae6f040c84e119cdb209e5a967320fdfa3
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 12:55:16 2016 -0400
+
+    updates with yotam
+
+commit cdcea44f2f39cc5884bd3b2533c5c50cc5bef8ff
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 04:11:01 2016 -0400
+
+    print / turn++ updated
+
+commit 96ad4158e9894984fb0a57a7ae7c8326a2c2666c
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 02:43:24 2016 -0400
+
+    working gmae
+
+commit 233af02123f4fd2601df189120eeef9e2e5c09b8
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Thu Jun 23 00:09:11 2016 -0400
+
+    updates
+
+commit 4a9736bce90ce97ead2eacdee395982087fd808b
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Wed Jun 22 22:32:07 2016 -0400
+
+    changes
+
+commit 541f3b09fcdab19e88b8eeae8cdfc2020aae6943
+Merge: 468ac56 6d8917d
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Wed Jun 22 21:56:33 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 468ac56e9c42791080eee7a7c3d7cc55e3305ef6
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Wed Jun 22 21:56:14 2016 -0400
+
+    finally works
+
+commit 6d8917dfd5a4997ddbc4af0af658676bd9bdc061
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Wed Jun 22 20:15:49 2016 -0400
+
+    Checker whitespace svae bug fixed
+
+commit 6ffa9dc87150ed3db2a9c1fca3b6717e068a674b
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Wed Jun 22 17:20:23 2016 -0400
+
+    checker final, including save/load and end game
+
+commit a490af30cfb2a91b57eb31f55850fe10ee7cbb74
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Wed Jun 22 16:59:58 2016 -0400
+
+    checker finalized, (end game, save/load)
+
+commit 689664a5fcdcdb9f0476e46f5929a23baf032c71
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Wed Jun 22 14:28:29 2016 -0400
+
+    yotam comments
+
+commit 2e59b17b179cea9c9c4e4bba0738915332a8a904
+Merge: e2d47e2 7bd49d8
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Wed Jun 22 12:43:07 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit e2d47e2a5db695ca8495460f632d89b174ad02c5
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Wed Jun 22 12:41:25 2016 -0400
+
+    main updated
+
+commit 7bd49d87bd1e20c02f08f54f90bee70748c7575a
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Tue Jun 21 23:44:45 2016 -0400
+
+    save and load complete
+
+commit 0981b37ee12557c968ccc396c1541e6e0800b0f3
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Tue Jun 21 21:45:00 2016 -0400
+
+    jinwoo update
+
+commit 452f217b3851f94a5c53f403391d659dd59af742
+Merge: cf0f20c 483296f
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Tue Jun 21 21:42:21 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit cf0f20ce8ca875bc77c29c6335d33893cc0ee499
+Merge: 34ed7c9 572b77a
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Tue Jun 21 21:41:33 2016 -0400
+
+    updates
+
+commit 483296f7180dfdef166e5758189600793dee1109
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Tue Jun 21 20:23:52 2016 -0400
+
+    player_class.cpp added
+
+commit 36e0238d4b0da031c690299a2104b82d2f38fd4c
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Tue Jun 21 15:25:39 2016 -0400
+
+    updates in main
+
+commit 58aa584015c378ec657d6a3cf4841d20e46177ef
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Tue Jun 21 14:49:06 2016 -0400
+
+    board.cpp, battleship_main.cpp
+
+commit 4dbd7df25e014c6de70b13f39d2ad7e00f246cde
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Tue Jun 21 12:05:19 2016 -0400
+
+    more recent battleship_main.cpp
+
+commit 6f164d009a6ec8e1e875042e7e8d22d8608b3a43
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Tue Jun 21 11:56:48 2016 -0400
+
+    latest board.cpp and battleship_main.cpp
+
+commit 6ad9170caaad72eb0b5738509022df17aee6f5bb
+Merge: 10fb2e8 a637c3c
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Tue Jun 21 11:21:45 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 10fb2e89ea73e8375c2bf3262adf8ed32e70c91a
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Tue Jun 21 11:15:04 2016 -0400
+
+    board.cpp, battleship_main.cpp
+
+commit a637c3c44f36d104b85370b1843e195b9002e18a
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Tue Jun 21 11:13:34 2016 -0400
+
+    added battleship_main
+
+commit 7e9ee76d570476b0b01886cf7841f7b8ea5eb5e1
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 22:06:48 2016 -0400
+
+    comment out loop
+
+commit 2f857b5d24adaf51e16f9498a96233247b385d15
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 21:50:08 2016 -0400
+
+    added header and stuff
+
+commit 4952cc7c4703211536e77ce22552963f3da9abdd
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Mon Jun 20 21:22:23 2016 -0400
+
+    board.cpp
+
+commit e30f8878a4b2e30da795d5edf8dc764de5aea5f3
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Mon Jun 20 21:13:46 2016 -0400
+
+    battleship_main.cpp updated
+
+commit d42d3ae1c441b478f24ff67aea1b2ac9fd1fccc0
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 20:31:59 2016 -0400
+
+    updated main
+
+commit 1e1d286a1bbe1a572076f2e5c4e569c6561d3586
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 20:27:59 2016 -0400
+
+    added ship_class.cpp
+
+commit 564e8ed9dba4e2e84451c7e0823a20e0f46e03bc
+Merge: f197e42 2d0fbbb
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 20:25:03 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit f197e4256aed5c4001d45d6e9e8eb8d15c0346c3
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 20:24:55 2016 -0400
+
+    backup
+
+commit 2d0fbbba96df00bf3d0474b3b63321f2401c3e6b
+Merge: 1424016 7d82fa0
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Mon Jun 20 20:21:05 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 1424016b137c0fa70fe454c96d523f6eba62f614
+Merge: 743fa90 931c659
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Mon Jun 20 20:19:50 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 7d82fa0800e04c7054e63d56294675cc5ac32112
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 20:17:22 2016 -0400
+
+    updated battleship_main and ship_class
+
+commit 743fa90342e2ef7f1fdb31f782dbb87a976b9077
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Mon Jun 20 19:52:04 2016 -0400
+
+    update
+
+commit fa2157f25c1ac46ff8b9c16af2f8445b271f9985
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Mon Jun 20 19:45:25 2016 -0400
+
+    board updates for attack boards
+
+commit 931c659e799e73e9d76104102e6592bc6368d6c5
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 18:46:47 2016 -0400
+
+    battleship_main created/ship_class modified
+
+commit d793a83b617fddbc8a85c3a0923a104f3c9254a7
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Mon Jun 20 12:24:04 2016 -0400
+
+    fixed ship_class
+
+commit 34ed7c9ad50687f57ce4ff395309ba8d7b4f200f
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Mon Jun 20 00:50:57 2016 -0400
+
+    checker v3_95% done
+
+commit 572b77ae780dd202e39404a417bb6a149a48f45e
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sun Jun 19 23:36:29 2016 -0400
+
+    board.cpp updated, ship_class_restructured.cpp offers new potential structure for ship class
+
+commit 0d2157ff8d88fcb02c12e33a32d0b49f0fe424cc
+Merge: 271ae97 5557847
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sun Jun 19 18:49:45 2016 -0400
+
+    updates
+
+commit 5557847cc3f177255bb6dce100e4207b2c14b1b6
+Merge: 083e6bc 55ae8aa
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sun Jun 19 18:42:53 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 083e6bc09120e08050a731348be86bbf0578cc9b
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sun Jun 19 18:42:40 2016 -0400
+
+    updated board.cpp
+
+commit 12382e90f93486b48f7a670af0331bfe845b1a50
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sun Jun 19 18:42:05 2016 -0400
+
+    updated board.cpp
+
+commit 271ae97491c32ee3c8682f7f100ea35288c299f4
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sun Jun 19 18:40:18 2016 -0400
+
+    ship updated
+
+commit 55ae8aadbed6cfab91bb9478efeebce9d660c985
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Sun Jun 19 17:30:37 2016 -0400
+
+    updated checker
+
+commit 0bfb7069b6a734df0a116061a9ad4bfe52d60a23
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Sun Jun 19 16:03:59 2016 -0400
+
+    checker, correctly updates piece location
+
+commit 9b1f579b4001709f5fa9f192e702d5ed2f70add0
+Merge: e390050 a9d1d0a
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sun Jun 19 14:30:14 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit a9d1d0a4cbe0785fe1e7498db36b82f5f914476c
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sun Jun 19 14:29:36 2016 -0400
+
+    ship updated
+
+commit e3900509083ba73223d6d765f83cfbf033cd06bd
+Merge: 7a97176 345e6ab
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sun Jun 19 14:14:24 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 345e6ab59fd99f39b066394fe39c46c5cbba4171
+Merge: b969fd2 e47631f
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Sun Jun 19 14:14:02 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit 7a971762f52afbc436f8811e99e7f9a0744ddaab
+Merge: 93e5a44 e47631f
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sun Jun 19 14:13:03 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit b969fd21ae6926dfafb730939d2e7fb13f28b278
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Sun Jun 19 14:12:25 2016 -0400
+
+    checker v1
+
+commit 93e5a44b0decaee6c1bdce1942abf81c6dfa2c84
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sun Jun 19 14:08:53 2016 -0400
+
+    6/19
+
+commit e47631f0311ca6472528368bd57e0d1229c199e3
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sun Jun 19 11:35:12 2016 -0400
+
+    ship updated
+
+commit e8f22e76e81b9719c5c47b991bed3231e9a44c6e
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sun Jun 19 02:04:06 2016 -0400
+
+    ship updated
+
+commit 6947dcff981525501d4624ba53d46788d5dcfb14
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sun Jun 19 01:34:46 2016 -0400
+
+    updated ship
+
+commit cd4d0d0b9ff69f2d6dc8dfbe0cc8edc02b26c7b0
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Sun Jun 19 00:26:43 2016 -0400
+
+    jinwoo_ checker board made
+
+commit f623b21f51be0506d350f8901e7a779c08e80411
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sun Jun 19 00:01:40 2016 -0400
+
+    updates on ship_class
+
+commit fff89ffd305413680c1280f089f2e8758ec2dc3e
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sat Jun 18 21:10:46 2016 -0400
+
+    updated board.cpp
+
+commit 2b8d07d55c9d1fcea70d196e7ee4db393e49a08d
+Merge: 94f01c0 d7f2168
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sat Jun 18 17:15:50 2016 -0400
+
+    Merge branch 'master' of bitbucket.org:intermediatefinal/final-project
+
+commit d7f21687a05efdf3c445673f0ee7315a42f962fb
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sat Jun 18 17:13:56 2016 -0400
+
+    added ship_class.cpp
+
+commit 94f01c0196e34d848b0ef97b989e0e444b016ad9
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sat Jun 18 17:13:20 2016 -0400
+
+    board class started
+
+commit 1c175df7089cdb6b5509002f82f758afcc8359a6
+Author: Jin Woo Oh <Jin Woo Oh>
+Date:   Sat Jun 18 16:19:14 2016 -0400
+
+    Jinwoo: battleship updated
+
+commit f3002459faabe7d20d8f73804ec9a8e3a5f98f5a
+Author: Jiwon Shin <jshin1394@gmail.com>
+Date:   Sat Jun 18 15:19:54 2016 -0400
+
+    starter files
+
+commit e5f1976495a0e82760289d4aa57d2ae096f0913d
+Author: SamJHU <sbrayma1@jhu.edu>
+Date:   Sat Jun 18 15:15:15 2016 -0400
+
+    testing git

@@ -1,0 +1,5 @@
+Select game: (b)attleship or (c)heckers?
+Checkers
+Player 1 turn 1:
+Player 1 wins on turn 3
+Select game: (b)attleship or (c)heckers?
